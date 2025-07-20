@@ -56,9 +56,3 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, fique �
 
 - Este projeto foi feito para fins educacionais e pode ser expandido de várias formas, incluindo suporte para outros tipos de documentos jurídicos, integração com bancos de dados, ou melhoria na interface de usuário.
 - Se você encontrar algum erro ou tiver alguma dúvida sobre como usar a aplicação, sinta-se à vontade para abrir uma **issue**.
-
----
-
-### **Conclusão**:
-
-Com esse README, qualquer pessoa poderá entender rapidamente o propósito do projeto, como configurá-lo e usá-lo. Se precisar de mais ajustes ou detalhes adicionais, é só avisar! 😊
